@@ -1,0 +1,24 @@
+.BookList {
+  margin-top: 20px;
+}
+
+.BookListItem {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.BookListItem:hover {
+  background-color: #f0f0f0;
+}
+
+.Available {
+  color: green;
+  font-weight: bold;
+}
+
+.NotAvailable {
+  color: red;
+  font-weight: bold;
+}
